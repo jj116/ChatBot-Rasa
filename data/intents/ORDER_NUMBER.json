@@ -1,0 +1,37 @@
+{
+  "id": "a884359a-b0b1-4472-9fad-2796e3fa48be",
+  "name": "ORDER_NUMBER",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "127fcf4c-7c0d-4f79-a8ae-3281badd6b4d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Providing the details of the order number $number"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517817725,
+  "fallbackIntent": false,
+  "events": []
+}

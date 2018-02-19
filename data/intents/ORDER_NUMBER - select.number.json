@@ -1,0 +1,42 @@
+{
+  "id": "302d37d2-6444-4666-9bd3-a7172291de48",
+  "parentId": "a884359a-b0b1-4472-9fad-2796e3fa48be",
+  "rootParentId": "a884359a-b0b1-4472-9fad-2796e3fa48be",
+  "name": "ORDER_NUMBER - select.number",
+  "auto": true,
+  "contexts": [
+    "ORDER_NUMBER-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ORDER_NUMBER.ORDER_NUMBER-selectnumber",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4f4dc88f-b532-4e82-90e8-dbef52b0708f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Giving you the details of the Order Number $number"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124798,
+  "fallbackIntent": false,
+  "events": []
+}

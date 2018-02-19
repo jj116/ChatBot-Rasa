@@ -1,0 +1,3 @@
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Order details of 123123"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Give me details of the order number 123123"}

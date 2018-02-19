@@ -1,0 +1,22 @@
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Wassup"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Give me details of the order number 1231"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Jaison"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey!"}
+{"confidence": 1.0, "entities": [], "intent": "goodbye", "text": "Bye!"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Bi"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Bieeeee"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "suo"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "sup"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "Yo!"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey"}
+{"confidence": 1.0, "entities": [], "intent": "goodbye", "text": "Goodbye!"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey there!"}
+{"confidence": 1.0, "entities": [], "intent": "goodbye", "text": "Goodbye!"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Heya"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "How you working?"}

@@ -1,0 +1,152 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I\u0027m a here to answer your queries regarding orders."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "That\u0027s a first"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "With pleasure."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Never"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Duh."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Hardly"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "You"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "Never for you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "That is why I am here"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Around that"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Tell me something new"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "I\u0027ve  been told"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "Thank You"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thank You"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Is anyone?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "Answering your questions"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "Always"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "Noooo!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "Kinda"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "Dell"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Hope i was of help!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hello, Please provide your order number!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too, Please provide your order number!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Hello, Please provide your order number!"
+    ]
+  }
+]

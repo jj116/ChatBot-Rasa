@@ -1,0 +1,356 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [], 
+        "intent": "Account_Contact", 
+        "text": "Who is the contact for this account"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Account_Contact", 
+        "text": "Who should I contact for this account"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Account_Contact", 
+        "text": "Whats the email of the person who owns this account"
+      }, 
+      {
+        "entities": [], 
+        "intent": "Account_Contact", 
+        "text": "Who owns this account?"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "What Happening"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Yo"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Hiiiiiiiiiiiii"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Hello"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Heya"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Wassup"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "How do you do"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "Hi"
+      }, 
+      {
+        "entities": [], 
+        "intent": "greeting", 
+        "text": "hey"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 16, 
+            "end": 17, 
+            "value": "3", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "I choose number 3"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 4, 
+            "end": 7, 
+            "value": "1st", 
+            "entity": "number"
+          }, 
+          {
+            "start": 20, 
+            "end": 23, 
+            "value": "2nd", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "the 1st one and the 2nd one"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 7, 
+            "end": 10, 
+            "value": "1st", 
+            "entity": "number"
+          }, 
+          {
+            "start": 15, 
+            "end": 18, 
+            "value": "2nd", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "choose 1st and 2nd one"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 15, 
+            "end": 16, 
+            "value": "1", 
+            "entity": "number"
+          }, 
+          {
+            "start": 17, 
+            "end": 18, 
+            "value": "2", 
+            "entity": "number"
+          }, 
+          {
+            "start": 19, 
+            "end": 20, 
+            "value": "3", 
+            "entity": "number"
+          }, 
+          {
+            "start": 25, 
+            "end": 26, 
+            "value": "5", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "choose numbers 1 2 3 and 5"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 6, 
+            "value": "second", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "second one"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 7, 
+            "end": 8, 
+            "value": "4", 
+            "entity": "number"
+          }, 
+          {
+            "start": 9, 
+            "end": 10, 
+            "value": "5", 
+            "entity": "number"
+          }, 
+          {
+            "start": 11, 
+            "end": 12, 
+            "value": "7", 
+            "entity": "number"
+          }, 
+          {
+            "start": 17, 
+            "end": 18, 
+            "value": "8", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "number 4 5 7 and 8"
+      }, 
+      {
+        "entities": [], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "119161783"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 12, 
+            "end": 18, 
+            "value": "second", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "show me the second one"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 4, 
+            "end": 5, 
+            "value": "1", 
+            "entity": "number"
+          }, 
+          {
+            "start": 6, 
+            "end": 7, 
+            "value": "2", 
+            "entity": "number"
+          }, 
+          {
+            "start": 8, 
+            "end": 9, 
+            "value": "3", 
+            "entity": "number"
+          }, 
+          {
+            "start": 10, 
+            "end": 11, 
+            "value": "4", 
+            "entity": "number"
+          }, 
+          {
+            "start": 16, 
+            "end": 17, 
+            "value": "5", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "see 1 2 3 4 and 5"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 16, 
+            "end": 17, 
+            "value": "2", 
+            "entity": "number"
+          }, 
+          {
+            "start": 29, 
+            "end": 30, 
+            "value": "5", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "I select number 2 and number 5"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 11, 
+            "end": 16, 
+            "value": "first", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER - select.number", 
+        "text": "select the first one"
+      }, 
+      {
+        "entities": [], 
+        "intent": "ORDER_NUMBER", 
+        "text": "order number"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 0, 
+            "end": 6, 
+            "value": "120258", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER", 
+        "text": "120258"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 18, 
+            "end": 24, 
+            "value": "123124", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER", 
+        "text": "Where is my order 123124"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 33, 
+            "end": 39, 
+            "value": "123123", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER", 
+        "text": "Give me the details of the order 123123"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 36, 
+            "end": 42, 
+            "value": "123123", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER", 
+        "text": "Give me details of the order number 123123"
+      }, 
+      {
+        "entities": [], 
+        "intent": "ORDER_NUMBER", 
+        "text": "order_number"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 39, 
+            "end": 46, 
+            "value": "1231231", 
+            "entity": "number"
+          }
+        ], 
+        "intent": "ORDER_NUMBER", 
+        "text": "i want the details of the order number 1231231"
+      }, 
+      {
+        "entities": [], 
+        "intent": "ORDER_NUMBER", 
+        "text": "Where is my order"
+      }, 
+      {
+        "entities": [], 
+        "intent": "ORDER_STATUS", 
+        "text": "order_status"
+      }
+    ], 
+    "entity_synonyms": [], 
+    "regex_features": []
+  }
+}

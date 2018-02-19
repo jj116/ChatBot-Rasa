@@ -1,0 +1,7 @@
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hi"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 1.0, "entities": [], "intent": "goodbye", "text": "Goodbye"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hey"}
+{"confidence": 1.0, "entities": [], "intent": "greet", "text": "Hello"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "get me order details of 23123"}
+{"confidence": 1.0, "entities": [], "intent": "None", "text": "get me order details"}
